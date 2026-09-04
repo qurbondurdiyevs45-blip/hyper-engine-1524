@@ -1,0 +1,15 @@
+{
+  "name": "hyper-engine-1524",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 1996,
+    "createdAt": "2026-09-04T06:14:43.623Z"
+  }
+}
